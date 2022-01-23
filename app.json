@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "homework1week1",
     "slug": "homework1week1",
+=======
+    "name": "newtestproject",
+    "slug": "newtestproject",
+>>>>>>> 151a56e40773540a0c9de9225b1cf8ba894e78e3
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

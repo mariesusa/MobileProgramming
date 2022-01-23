@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "homeworkweek",
+=======
+  "name": "newtestproject",
+>>>>>>> 151a56e40773540a0c9de9225b1cf8ba894e78e3
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
